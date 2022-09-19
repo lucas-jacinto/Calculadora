@@ -1,0 +1,127 @@
+#visor {
+  width: 295px;
+  border-bottom: 2px #6f6f6f solid;
+  border-bottom-color: #9b0017;
+  background-color: #fff;
+}
+
+body {
+  background-color: #000000;
+}
+
+form {
+  align-items: center;
+  margin-top: 200px;
+}
+table {
+  margin: auto;
+  background-color: #9b0017;
+  width: 296px;
+  max-width: 296px;
+  height: 324px;
+  text-align: center;
+  border-radius: 6px;
+  padding-right: 10px;
+  border-color: #740213;
+}
+
+input {
+  outline: 0;
+  position: relative;
+  left: 5px;
+  top: 5px;
+  border: 0;
+  color: #495069;
+  background-color: #fff;
+  border-radius: 4px;
+  width: 60px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  font-size: 24px;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 15px;
+}
+input:hover {
+  border: 0 solid #000;
+  color: #495069;
+  background-color: #eee;
+  border-radius: 4px;
+  width: 60px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  font-size: 24px;
+  box-shadow: 0 4px #520707;
+}
+
+input:active {
+  top: 5px;
+  border: 0 solid #000;
+  color: #495069;
+  background-color: #fff;
+  border-radius: 4px;
+  width: 60px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  font-size: 24px;
+  box-shadow: none;
+}
+
+#display {
+  width: 265px;
+  max-width: 270;
+  font-size: 50px;
+  text-align: right;
+  background-color: #bcbd95;
+  float: left;
+}
+
+#display:hover {
+  width: 270px;
+  font-size: 26px;
+  text-align: right;
+  background-color: #bcbd95;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.2);
+}
+
+#display:active {
+  top: 5px;
+  width: 270px;
+  font-size: 26px;
+  text-align: right;
+  background-color: #bcbd95;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.2);
+}
+.operacao {
+  background-color: #cee9ea;
+  position: relative;
+}
+.operacao:hover {
+  background-color: #cee9ea;
+  box-shadow: none;
+}
+
+#limpar {
+  float: left;
+  position: relative;
+  display: block;
+  background-color: #ff9fa8;
+}
+#limpar:hover {
+  float: left;
+  display: block;
+  background-color: #f297a0;
+  margin-bottom: 15px;
+  box-shadow: 0 4px #cc7f86;
+}
+#clear:active {
+  float: left;
+  top: 4px;
+  display: block;
+  background-color: #f297a0;
+  margin-bottom: 15px;
+  box-shadow: none;
+}
+

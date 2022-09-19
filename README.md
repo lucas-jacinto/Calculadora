@@ -1,4 +1,4 @@
-# Projeto CALCULADORA usando apenas HTML e CSS
+# Projeto CALCULADORA usando HTML e CSS
 
 1- Aqui temos uma simples calculadora que tem sua base em HTML e CSS.
 

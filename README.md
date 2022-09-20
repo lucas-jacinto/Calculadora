@@ -2,7 +2,7 @@
 
 Preview
 
-![alt text](https://github.com/lucas-jacinto//blob/master/calculadora.png?raw=true)
+![alt text](https://github.com/lucas-jacinto/projetoCalculadora/blob/master/calculadora.png?raw=true)
 
 1- Aqui temos uma simples calculadora que tem sua base em HTML e CSS.
 
